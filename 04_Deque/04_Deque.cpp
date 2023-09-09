@@ -9,7 +9,7 @@ int main()
     // Iterate and print values of deque
     for (int n : d)
         std::cout << n << ' ';
-    std::cout << std::endl;;
+    std::cout << std::endl;
 
     return 0;
 }
